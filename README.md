@@ -88,6 +88,11 @@ Go to the Discord Developer Portal, select your application, navigate to the `OA
 
 ## Usage/Examples
 
+```bash
+python discord_bot.py
+```
+Run the bot in the VM so that it can be used from outside
+
 ```javascript
 .test
 ```
